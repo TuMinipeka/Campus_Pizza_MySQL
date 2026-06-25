@@ -9,7 +9,8 @@
 El enunciado original (ver más abajo) pide diseñar la base de datos de una pizzería que gestiona productos (pizzas, panzarottis, bebidas, postres), sus ingredientes, las adiciones con las que un cliente personaliza un producto, los combos que agrupan varios productos a un precio especial, y los pedidos de los clientes (para recoger o para consumir en el local).
 
 Archivos:
-- [`pizzeria_estructura.sql`](img/modelologicoMariaDBView.png) — creación de la base de datos y las 12 tablas con sus PK/FK en DBeaver y en Drawsql ![alt text](img/modelologicoDRAWsql.png).
+- [`pizzeria_estructura.sql`](img/modelologicoMariaDBView.png) — creación de la base de datos y las 12 tablas con sus PK/FK en DBeaver y en Drawsql.
+![alt text](img/modelologicoDRAWsql.png)
 
 
 ---
