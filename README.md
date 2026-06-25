@@ -10,7 +10,7 @@ El enunciado original (ver más abajo) pide diseñar la base de datos de una piz
 
 Archivos:
 - [`pizzeria_estructura.sql`](img/modelologicoMariaDBView.png) — creación de la base de datos y las 12 tablas con sus PK/FK en DBeaver y en Drawsql.
-![alt text](img/modelologicoDRAWsql.png)
+- [`Drawsql`](img/modelologicoDRAWsql.png).
 
 
 ---
