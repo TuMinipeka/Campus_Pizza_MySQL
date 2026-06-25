@@ -326,6 +326,7 @@ FROM (
 ) AS resumen
 WHERE pedidos_ultimo_mes > 5;
 ```
+La subconsulta cuenta los pedidos del último mes por cliente; la consulta externa filtra ese resultado ya agrupado quedándose con los clientes que superan 5 pedidos (en lugar de usar `HAVING` sobre el `COUNT`).
 
 **Resultado esperado:** Carla Méndez (6 pedidos).
 
